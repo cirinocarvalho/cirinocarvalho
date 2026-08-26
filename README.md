@@ -73,8 +73,12 @@ ends up coming back to my professional work.
 
 ### Currently
 
-Modernizing legacy services onto .NET 10, and figuring out how AI coding agents can
-extend a codebase without quietly violating its architecture.
+Modernizing legacy services onto .NET 10, and working out how AI coding agents can
+extend a codebase without quietly violating its architecture — writing Copilot
+instruction files, reusable agent skills, and architecture-diagram conventions so
+generated code respects layer boundaries.
+
+<sub>Daily drivers: Visual Studio · Rider · VS Code · Claude Code · GitHub Copilot · Codex</sub>
 
 ---
 
