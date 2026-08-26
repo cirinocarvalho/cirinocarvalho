@@ -36,6 +36,15 @@ It's where I get to try ideas the day job has no room for — event-driven archi
 real-time data pipelines, and infrastructure-as-code — and most of what I learn there
 ends up coming back to my professional work.
 
+### Currently
+
+Modernizing legacy services onto .NET 10, and working out how AI coding agents can
+extend a codebase without quietly violating its architecture — writing Copilot
+instruction files, reusable agent skills, and architecture-diagram conventions so
+generated code respects layer boundaries.
+
+<sub>Daily drivers: Visual Studio · Rider · VS Code · Claude Code · GitHub Copilot · Codex</sub>
+
 ### Tech I reach for
 
 **Backend**
@@ -70,15 +79,6 @@ ends up coming back to my professional work.
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Esri ArcGIS](https://img.shields.io/badge/Esri_ArcGIS-2C7AC3?style=flat&logo=arcgis&logoColor=white)
-
-### Currently
-
-Modernizing legacy services onto .NET 10, and working out how AI coding agents can
-extend a codebase without quietly violating its architecture — writing Copilot
-instruction files, reusable agent skills, and architecture-diagram conventions so
-generated code respects layer boundaries.
-
-<sub>Daily drivers: Visual Studio · Rider · VS Code · Claude Code · GitHub Copilot · Codex</sub>
 
 ---
 
